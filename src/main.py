@@ -75,5 +75,5 @@ if __name__ == "__main__":
     main.main(input_type="mic")
     # main.main(
     #     input_type="file",
-    #     file_path="./test_voice/test_tomorrow.wav",
-    # )  # 音声ファイル入力の場合
+    #     file_path="../test_voice/test_tomorrow.wav",
+    # )
