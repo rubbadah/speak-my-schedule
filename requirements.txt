@@ -1,0 +1,14 @@
+numpy==1.23.5
+torch==2.5.1
+espnet==202402
+pyaudio==0.2.14
+speechrecognition==3.11.0
+requests==2.32.3
+pytz==2024.2
+soundfile==0.12.1
+scipy==1.8.0
+torchaudio==2.5.1
+espnet_model_zoo==0.1.7
+pyopenjtalk==0.3.4
+sounddevice==0.5.1
+kanjize==1.5.0
